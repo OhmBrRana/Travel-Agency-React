@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "craco start",
-    "bbl": "craco build",
+    "build": "craco srart",
     "test": "craco test --env=jsdom",
     "eject": "craco eject"
   },
